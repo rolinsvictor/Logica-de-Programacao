@@ -1,0 +1,6 @@
+Um software comercial necessita de um sistema de segurança que protege a emissão de relatórios confidenciais. 
+Ele deve solicitar o numero da matricula e a senha do funcionário e só então liberar o acesso. Implemente este 
+sistema usando operadores lógicos E e OU de forma a permitir a entrada para os seguintes dados: 
+MATRICULA1 = “987” SENHA1 = “789” 
+MATRICULA2 = “321” SENHA2 = “123” 
+MATRICULA3 = “654” SENHA3 = “456”
